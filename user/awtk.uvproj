@@ -350,7 +350,7 @@
           </ArmAdsMisc>
           <Cads>
             <interw>1</interw>
-            <Optim>3</Optim>
+            <Optim>2</Optim>
             <oTime>0</oTime>
             <SplitLS>0</SplitLS>
             <OneElfS>0</OneElfS>
@@ -1048,11 +1048,6 @@
               <FileName>slider.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\awtk-lite\src\widgets\slider.c</FilePath>
-            </File>
-            <File>
-              <FileName>system_bar.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\awtk-lite\src\widgets\system_bar.c</FilePath>
             </File>
             <File>
               <FileName>tab_button.c</FileName>
